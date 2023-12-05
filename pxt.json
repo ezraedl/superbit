@@ -6,7 +6,9 @@
         "radio": "*",
         "microphone": "*",
         "SuperBit": "github:lzty634158/superbit#0a0d6cd2c18804f6b56e944d0c7ff7bd91473ec8",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
